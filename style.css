@@ -118,6 +118,8 @@ body {
 
 }
 
+
+
 .big-image:hover .btn-add {
     background-color: rgba(0, 0, 0, 0.5);
 }
@@ -152,6 +154,8 @@ body {
     color: #fff;
 
 }
+
+
 
 .small-content {
     position: absolute;
@@ -212,13 +216,15 @@ body {
 /* footer area start here  */
 .footer-start {
     background-color: rgb(69, 74, 74);
-    color: #fff;
-    padding: 20px;
+    color: rgb(255, 255, 255);
+    padding: 5px;
 }
 
 .footer-area {
     display: flex;
+    margin-left: 27px;
 }
+
 
 .footer-first-area {
     padding: 10px 60px;
@@ -228,6 +234,7 @@ body {
     text-decoration: none;
     color: white;
     display: block;
+    padding: 2px;
 
 }
 
@@ -251,7 +258,7 @@ body {
 }
 
 .finish hr {
-    margin: 50px;
+    margin: 7px;
     display: block;
 }
 

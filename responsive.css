@@ -1,0 +1,180 @@
+@media (max-width: 431px) {
+    .header-image {
+        width: auto;
+        margin-left: 10px;
+    }
+
+    .header-image img {
+        height: 35px;
+        width: 90px;
+    }
+
+    .header-manu li a {
+
+        font-size: 11px;
+
+    }
+
+    .header-manu li {
+        margin-right: 5px;
+        padding: 2px;
+    }
+
+    .header-manu {
+        margin-left: 13px;
+    }
+
+    .text {
+        margin-left: 27px;
+    }
+
+    .text h2 {
+        font-size: 15px;
+        margin: 0 0 0 0;
+    }
+
+    .text h4 {
+        font-style: italic;
+        margin-top: 2px;
+        margin-bottom: 13px;
+    }
+
+    .banner-area {
+        display: flex;
+        margin-left: 13px;
+        flex-direction: column;
+    }
+
+    .big-image img {
+        height: auto;
+        width: 379px;
+    }
+
+    .content {
+
+        padding: 19px;
+        margin-top: 0;
+        height: 100%;
+        width: auto;
+
+    }
+
+    .small-image {
+        margin-left: 13px;
+        gap: 10px;
+
+    }
+
+    .small-content {
+        height: 100%;
+        width: auto;
+    }
+
+    .small-image img {
+        height: 100%;
+        width: 184px;
+        margin-left: -19px;
+    }
+
+    .small-image {
+        margin-left: 39px;
+        margin-top: 15px;
+        gap: 11px;
+    }
+
+    .small-content {
+        height: 78px;
+        width: 105px;
+        margin-left: -19px;
+    }
+
+    .small-content h1 {
+
+        font-size: 11px;
+    }
+
+    .small-content p {
+        font-size: 6px;
+    }
+
+    .small-content a {
+        font-size: 6px;
+    }
+
+    .women-image img {
+        transition: transform .5s ease-in-out;
+        height: auto;
+        width: 292px;
+    }
+
+    .women-dress {
+        margin-left: 36px;
+    }
+
+    .women-area {
+        flex-direction: column;
+
+    }
+
+    .women-dress {
+        margin-top: 14px;
+    }
+
+    .dress {
+
+        padding-top: 0px;
+    }
+
+    .dress-name h3 {
+        font-size: 10px;
+    }
+
+    .footer-start {
+
+        margin-bottom: 49px;
+    }
+
+    .footer-image img {
+        height: 28px;
+        width: 83px;
+    }
+
+    .footer-image {
+        width: auto;
+        margin-right: 10px;
+    }
+
+    .footer-first-area {
+        padding: 7px 22px;
+        height: auto;
+        width: 70px;
+    }
+
+    .footer-content p {
+        font-size: 7px;
+    }
+
+    .footer-content a {
+        font-size: 9px;
+    }
+
+    .footer-content h2 {
+        font-size: 11px;
+    }
+
+    .footer-area {
+
+        margin-left: -8px;
+        margin-right: 10px;
+    }
+
+    .finish {
+        display: block;
+        text-align: center;
+        margin-bottom: 218px;
+    }
+
+    .finish p {
+        font-size: 8px;
+    }
+}
